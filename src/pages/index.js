@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const index = () => {
+const Index = () => {
   const [ratings, setRatings] = useState({
     aspek_penilaian_1: {},
     aspek_penilaian_2: {},
@@ -83,4 +83,4 @@ const index = () => {
   );
 };
 
-export default index;
+export default Index;
