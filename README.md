@@ -1,2 +1,2 @@
 Technical test frontend developer
-Link app:
+Link app: https://technical-test-fe-phi.vercel.app/
